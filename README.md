@@ -15,16 +15,16 @@ With a strong foundation in **programming**, I am always exploring new technolog
 ## 🔧 Technologies & Tools
 
 ### 🚀 Programming Languages
-- **Java** | **C++** | **C#** | **Python** | **JavaScript**
+- **Java** | **C++** | **C#** | **Python** | **JavaScript**| **VisualBasics**
 
 ### 📚 Frameworks & Libraries
 - **ASP.NET** | **JavaFX** | **Django**
 
 ### 🛠️ Tools
-- **Visual Studio** | **VSCode** | **Git**
+- **Visual Studio** | **VSCode** | **Git** | **Codeblocks**
 
 ### 🗄️ Databases
-- **MySQL** | **MongoDB**
+- **MySQL** | **MongoDB** | **Django**
 
 ---
 
