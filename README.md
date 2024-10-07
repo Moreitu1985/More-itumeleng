@@ -1,6 +1,6 @@
 # Moreitumeleng
 About Me
-i there! 👋 I'm **Moreitumeleng**, a dedicated and hard-working Computer Science student with a passion for learning to develop and design programs. I enjoy solving problems through code and am committed to improving my skills every day.
+Hi there! 👋 I'm **Moreitumeleng**, a dedicated and hard-working Computer Science student with a passion for learning to develop and design programs. I enjoy solving problems through code and am committed to improving my skills every day.
 
 I have a strong foundation in programming and continue to explore various technologies to build impactful solutions.
 
@@ -18,4 +18,4 @@ I have a strong foundation in programming and continue to explore various techno
 ### 📫 How to Reach Me
 
 - GitHub: [https://github.com/Moreitu1985](https://github.com/Moreitu1985)
-- Email: youremail@example.com
+- Email: itumelengmore15@gmail.com
