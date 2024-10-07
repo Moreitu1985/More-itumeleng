@@ -1,22 +1,46 @@
 # Moreitumeleng
-About Me
 
-Hi there! 👋 I'm **Moreitumeleng**, a dedicated and hard-working Computer Science student with a passion for learning to develop and design programs. I enjoy solving problems through code and am committed to improving my skills every day.
+# 👋 Hi, I'm Moreitumeleng!
 
-I have a strong foundation in programming and continue to explore various technologies to build impactful solutions.
+---
 
-### 🔧 Technologies & Tools
+## 🧑‍💻 About Me
 
-- **Languages**: Java,  C++, ASP.NET
-- **Tools**: Visual Studio, VSCode, Git
-- **Frameworks**: JavaFX, ASP.NET
-- **Databases**: MySQL, dyango
+Hi there! 👋 I'm **Moreitumeleng**, a dedicated and hard-working **Computer Science student** with a passion for learning to develop and design software solutions. I thrive on solving real-world problems through code and enjoy taking on complex challenges that push me to continuously improve my skills.
 
-### 🌟 Projects
+With a strong foundation in **programming**, I am always exploring new technologies to build impactful, innovative solutions. My love for IT comes from the belief that technology has the power to simplify, enhance, and transform the way we live and work.
 
-- **More Projects**: [Check out my GitHub](https://github.com/Moreitu1985)
+---
 
-### 📫 How to Reach Me
+## 🔧 Technologies & Tools
 
-- GitHub: [https://github.com/Moreitu1985](https://github.com/Moreitu1985)
-- Email: itumelengmore15@gmail.com
+### 🚀 Programming Languages
+- **Java** | **C++** | **C#** | **Python** | **JavaScript**
+
+### 📚 Frameworks & Libraries
+- **ASP.NET** | **JavaFX** | **Django**
+
+### 🛠️ Tools
+- **Visual Studio** | **VSCode** | **Git**
+
+### 🗄️ Databases
+- **MySQL** | **MongoDB**
+
+---
+
+## 🌟 Projects
+
+- **E-Commerce Platform:** Developed a fully functional e-commerce store where users can buy and sell thrifted clothing, leveraging ASP.NET, C#, and MySQL to create a seamless shopping experience.
+  
+- **Music Sharing System:** Built a peer-to-peer network system in Java that allows users to share music files securely in real-time, with a strong focus on communication protocols and file transfer security.
+
+- **Change Management System:** A solution designed to streamline IT change management for businesses, improving efficiency using Visual Basic and SQL.
+
+For more of my projects, check out my [GitHub](https://github.com/Moreitu1985).
+
+---
+
+## 📫 How to Reach Me
+
+- **GitHub:** [https://github.com/Moreitu1985](https://github.com/Moreitu1985)
+- **Email:** itumelengmore15@gmail.com
