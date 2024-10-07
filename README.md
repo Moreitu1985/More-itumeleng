@@ -1,5 +1,6 @@
 # Moreitumeleng
 About Me
+
 Hi there! 👋 I'm **Moreitumeleng**, a dedicated and hard-working Computer Science student with a passion for learning to develop and design programs. I enjoy solving problems through code and am committed to improving my skills every day.
 
 I have a strong foundation in programming and continue to explore various technologies to build impactful solutions.
