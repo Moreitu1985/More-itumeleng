@@ -32,9 +32,7 @@ With a strong foundation in **programming**, I am always exploring new technolog
 
 - **E-Commerce Platform:** Developed a fully functional e-commerce store where users can buy and sell thrifted clothing, leveraging ASP.NET, C#, and MySQL to create a seamless shopping experience.
   
-- **Music Sharing System:** Built a peer-to-peer network system in Java that allows users to share music files securely in real-time, with a strong focus on communication protocols and file transfer security.
 
-- **Change Management System:** A solution designed to streamline IT change management for businesses, improving efficiency using Visual Basic and SQL.
 
 For more of my projects, check out my [GitHub](https://github.com/Moreitu1985).
 
